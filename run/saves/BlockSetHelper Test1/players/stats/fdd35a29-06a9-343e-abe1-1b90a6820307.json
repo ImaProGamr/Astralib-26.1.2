@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "astralib:mulstone": 1,
+      "astralib:mulstone_slab": 12,
+      "astralib:mulstone_stairs": 5,
+      "astralib:mulstone_wall": 12
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1339,
+      "minecraft:walk_one_cm": 429,
+      "minecraft:total_world_time": 1349,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 3801,
+      "minecraft:sneak_time": 22,
+      "minecraft:play_time": 1339,
+      "minecraft:jump": 2,
+      "minecraft:time_since_death": 1339
+    }
+  },
+  "DataVersion": 4790
+}

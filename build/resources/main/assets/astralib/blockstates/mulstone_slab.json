@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "astralib:block/mulstone_slab"
+    },
+    "type=double": {
+      "model": "astralib:block/mulstone"
+    },
+    "type=top": {
+      "model": "astralib:block/mulstone_slab_top"
+    }
+  }
+}

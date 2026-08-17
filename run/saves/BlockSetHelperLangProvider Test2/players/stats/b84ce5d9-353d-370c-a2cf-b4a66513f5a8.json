@@ -1,0 +1,18 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "astralib:mulstone": 1,
+      "astralib:mulstone_wall": 4
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 196,
+      "minecraft:walk_one_cm": 9,
+      "minecraft:total_world_time": 214,
+      "minecraft:leave_game": 1,
+      "minecraft:sneak_time": 9,
+      "minecraft:play_time": 196,
+      "minecraft:time_since_death": 196
+    }
+  },
+  "DataVersion": 4790
+}

@@ -1,0 +1,14 @@
+// 26.1.2	-999999999-01-01T00:00:00	AstraLib/Tags for minecraft:block
+1e89e5d7305a0b3658e7c533f93eb7bed3f813ba data/minecraft/tags/block/fence_gates.json
+64fed6d5d55d34d978d422c1f2c6ff0953fea889 data/minecraft/tags/block/mineable/axe.json
+377bff117c2116e0a98a185100548ea3b200e3c9 data/minecraft/tags/block/mineable/pickaxe.json
+89a91b9d2408a0217e97697b6fee098181fb047f data/minecraft/tags/block/slabs.json
+b2261ee274e4af75c4584e26c131b03c4b7b2150 data/minecraft/tags/block/stairs.json
+8a375fd4f4b9b2d4d7ea631cfba9334adae03379 data/minecraft/tags/block/walls.json
+1058dcf6a50d65fbf5d5f97eabb0ccff30d97b88 data/minecraft/tags/block/wooden_buttons.json
+3d5386cb21acbecb2aebfb78d51dff424bed5ce3 data/minecraft/tags/block/wooden_doors.json
+3cb8e3c82176da30fd649b9c8f65e96e130a6bec data/minecraft/tags/block/wooden_fences.json
+42b3fb7640bfbdb1184257529137211d27ad028a data/minecraft/tags/block/wooden_pressure_plates.json
+d8a1287b6472f1194bf5ddc9974adac9b013aed2 data/minecraft/tags/block/wooden_slabs.json
+1718e80aaf77c4a887b0fd57eda8936442a90ac5 data/minecraft/tags/block/wooden_stairs.json
+d4fe58e0a43a2c6fc7a279032ca981a72347c023 data/minecraft/tags/block/wooden_trapdoors.json

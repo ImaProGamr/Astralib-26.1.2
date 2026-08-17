@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "astralib",
+  "version": "${version}",
+  "name": "AstraLib",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/astralib/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "astrahexal.astralib.client.AstralibDataGenerator"
+    ],
+    "client": [
+      "astrahexal.astralib.client.AstralibClient"
+    ],
+    "main": [
+      "astrahexal.astralib.Astralib"
+    ]
+  },
+  "mixins": [
+    "astralib.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

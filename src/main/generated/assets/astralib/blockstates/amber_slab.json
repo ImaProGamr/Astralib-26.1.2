@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "astralib:block/amber_slab"
+    },
+    "type=double": {
+      "model": "astralib:block/amber_planks"
+    },
+    "type=top": {
+      "model": "astralib:block/amber_slab_top"
+    }
+  }
+}

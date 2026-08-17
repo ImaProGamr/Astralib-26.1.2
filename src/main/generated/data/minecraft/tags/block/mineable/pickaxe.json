@@ -1,0 +1,8 @@
+{
+  "values": [
+    "astralib:mulstone",
+    "astralib:mulstone_stairs",
+    "astralib:mulstone_slab",
+    "astralib:mulstone_wall"
+  ]
+}

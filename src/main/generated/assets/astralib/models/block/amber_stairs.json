@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "astralib:block/amber_planks",
+    "side": "astralib:block/amber_planks",
+    "top": "astralib:block/amber_planks"
+  }
+}

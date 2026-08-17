@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 8,
+      "astralib:amber_trapdoor": 5,
+      "astralib:amber_fence_gate": 4,
+      "astralib:mulstone": 51,
+      "astralib:amber_planks": 27,
+      "astralib:amber_fence": 14,
+      "astralib:amber_door": 3,
+      "astralib:amber_button": 5,
+      "astralib:amber_slab": 6,
+      "astralib:amber_pressure_plate": 9,
+      "astralib:amber_stairs": 6
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 712,
+      "minecraft:time_since_rest": 4217,
+      "minecraft:walk_one_cm": 16270,
+      "minecraft:total_world_time": 4226,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 6472,
+      "minecraft:crouch_one_cm": 838,
+      "minecraft:sneak_time": 215,
+      "minecraft:play_time": 4217,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 4217
+    }
+  },
+  "DataVersion": 4790
+}

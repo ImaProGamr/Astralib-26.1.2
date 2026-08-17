@@ -1,0 +1,13 @@
+{
+  "values": [
+    "astralib:amber_planks",
+    "astralib:amber_stairs",
+    "astralib:amber_slab",
+    "astralib:amber_fence",
+    "astralib:amber_fence_gate",
+    "astralib:amber_button",
+    "astralib:amber_pressure_plate",
+    "astralib:amber_door",
+    "astralib:amber_trapdoor"
+  ]
+}

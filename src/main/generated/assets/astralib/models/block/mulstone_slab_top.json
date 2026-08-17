@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "astralib:block/mulstone",
+    "side": "astralib:block/mulstone",
+    "top": "astralib:block/mulstone"
+  }
+}
